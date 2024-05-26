@@ -3,7 +3,6 @@ deap
 numpy
 pandas
 matplotlib
-pylab
 seeaborn
 torch
 scikit-learn
